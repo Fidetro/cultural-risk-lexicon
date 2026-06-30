@@ -1,0 +1,66 @@
+[
+  {
+    "id": "entity-unit-731",
+    "canonical": "七三一部队 / Unit 731",
+    "type": "military_unit",
+    "aliases": [
+      "731",
+      "0731",
+      "七三一",
+      "零七三一",
+      "七三一部队",
+      "第731部队",
+      "第七三一部队",
+      "关东军防疫给水部",
+      "关东军防疫给水部队",
+      "unit 731",
+      "unit731"
+    ],
+    "fuzzy_aliases": [
+      "713",
+      "0713"
+    ],
+    "risk_categories": [
+      "japanese-war-crimes",
+      "biological-warfare",
+      "historical-trauma"
+    ],
+    "review_note": "数字编号、实验部队、生物战或日本侵华语境中出现时，可能被中文读者联想到七三一部队，建议结合上下文人工复核。",
+    "sources": [
+      "https://www.1937china.com/",
+      "https://zh.wikipedia.org/wiki/%E4%BE%B5%E8%8F%AF%E6%97%A5%E8%BB%8D%E7%AC%AC%E4%B8%83%E4%B8%89%E4%B8%80%E9%83%A8%E9%9A%8A%E7%BD%AA%E8%A8%BC%E9%99%B3%E5%88%97%E9%A4%A8",
+      "https://en.wikipedia.org/wiki/Unit_731",
+      "https://www.britannica.com/topic/Unit-731"
+    ]
+  },
+  {
+    "id": "person-iwamatsu-yoshio",
+    "canonical": "岩松义雄 / Iwamatsu Yoshio",
+    "type": "person",
+    "aliases": [
+      "岩松义雄",
+      "岩松義雄",
+      "iwamatsu yoshio",
+      "yoshio iwamatsu",
+      "yan song yi xiong",
+      "yansongyixiong",
+      "yan song",
+      "yansong",
+      "严颂"
+    ],
+    "fuzzy_aliases": [
+      "严松",
+      "岩松"
+    ],
+    "risk_categories": [
+      "japanese-war-crimes",
+      "japanese-aggression-in-china",
+      "historical-figure"
+    ],
+    "review_note": "“严颂”、`yansong` 等短别名和拼音形态本身有歧义，只能作为人工复核提示；若同时出现侵华、军队、战时或战犯罪行语境，应提高关注。",
+    "sources": [
+      "https://zh.wikipedia.org/wiki/%E5%B2%A9%E6%9D%BE%E7%BE%A9%E9%9B%84",
+      "https://ja.wikipedia.org/wiki/%E5%B2%A9%E6%9D%BE%E7%BE%A9%E9%9B%84"
+    ]
+  }
+]
