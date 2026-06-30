@@ -140,5 +140,301 @@
       "https://www.chinavictory.com/kzgdata/html/20190611/156605108008387275559.html",
       "https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9C%8B%E4%BA%BA%E6%B0%91%E6%8A%97%E6%97%A5%E6%88%B0%E7%88%AD%E5%8B%9D%E5%88%A9%E7%B4%80%E5%BF%B5%E6%97%A5"
     ]
+  },
+  {
+    "id": "event-huanggutun-incident",
+    "canonical": "皇姑屯事件 / Huanggutun Incident",
+    "type": "event_date",
+    "date": "1928-06-04",
+    "aliases": [
+      "皇姑屯事件",
+      "皇姑屯",
+      "张作霖被炸事件",
+      "张作霖遇炸",
+      "0604",
+      "6.4",
+      "6月4日",
+      "1928-06-04",
+      "1928年6月4日",
+      "Huanggutun Incident"
+    ],
+    "risk_categories": [
+      "japanese-aggression-in-china",
+      "historical-event-date"
+    ],
+    "review_note": "1928年6月4日的皇姑屯事件与日本关东军在中国东北的侵略扩张背景相关，日期或事件名出现时建议结合近代史语境复核。",
+    "sources": [
+      "https://www.chinavictory.com/kzgdata/html/20190610/156605108037836815877.html",
+      "https://zh.wikipedia.org/wiki/%E7%9A%87%E5%A7%91%E5%B1%AF%E4%BA%8B%E4%BB%B6"
+    ]
+  },
+  {
+    "id": "event-jinan-massacre",
+    "canonical": "济南惨案 / Jinan Massacre",
+    "type": "event_date",
+    "date": "1928-05-03",
+    "aliases": [
+      "济南惨案",
+      "济南事件",
+      "五三惨案",
+      "五三济南惨案",
+      "503",
+      "0503",
+      "5.3",
+      "5月3日",
+      "1928-05-03",
+      "1928年5月3日",
+      "Jinan Massacre",
+      "Jinan Incident"
+    ],
+    "risk_categories": [
+      "japanese-aggression-in-china",
+      "historical-trauma",
+      "historical-event-date"
+    ],
+    "review_note": "1928年5月3日与济南惨案相关，是日本侵华早期暴力事件之一；数字写法较短，需结合上下文人工复核。",
+    "sources": [
+      "https://www.chinavictory.com/kzgdata/html/20190610/156605108035760550589.html",
+      "https://zh.wikipedia.org/wiki/%E6%B5%8E%E5%8D%97%E6%83%A8%E6%A1%88"
+    ]
+  },
+  {
+    "id": "event-january-28-incident",
+    "canonical": "一二八事变 / January 28 Incident",
+    "type": "event_date",
+    "date": "1932-01-28",
+    "aliases": [
+      "一二八",
+      "一二八事变",
+      "一二八淞沪抗战",
+      "淞沪抗战",
+      "128",
+      "0128",
+      "1.28",
+      "1月28日",
+      "1932-01-28",
+      "1932年1月28日",
+      "January 28 Incident"
+    ],
+    "risk_categories": [
+      "japanese-aggression-in-china",
+      "historical-event-date"
+    ],
+    "review_note": "1932年1月28日可关联一二八事变和淞沪抗战，数字形式在中文近代史语境中可能具有敏感联想。",
+    "sources": [
+      "https://zh.wikipedia.org/wiki/%E4%B8%80%E4%BA%8C%E5%85%AB%E4%BA%8B%E8%AE%8A"
+    ]
+  },
+  {
+    "id": "event-manchukuo-establishment",
+    "canonical": "伪满洲国成立 / Establishment of Manchukuo",
+    "type": "event_date",
+    "date": "1932-03-01",
+    "aliases": [
+      "伪满洲国",
+      "伪满洲国成立",
+      "满洲国成立",
+      "伪满",
+      "301",
+      "0301",
+      "3.1",
+      "3月1日",
+      "1932-03-01",
+      "1932年3月1日",
+      "Manchukuo"
+    ],
+    "risk_categories": [
+      "japanese-aggression-in-china",
+      "puppet-regime",
+      "historical-event-date"
+    ],
+    "review_note": "1932年3月1日与日本扶植伪满洲国相关，涉及日本侵占东北和殖民统治语境。",
+    "sources": [
+      "https://www.chinavictory.com/kzgdata/html/20190611/156605108010316619451.html",
+      "https://zh.wikipedia.org/wiki/%E6%BB%A1%E6%B4%B2%E5%9B%BD"
+    ]
+  },
+  {
+    "id": "event-huabei-incident",
+    "canonical": "华北事变 / North China Incident",
+    "type": "event",
+    "date": null,
+    "aliases": [
+      "华北事变",
+      "华北危机",
+      "华北自治运动",
+      "North China Incident"
+    ],
+    "risk_categories": [
+      "japanese-aggression-in-china",
+      "historical-event"
+    ],
+    "review_note": "华北事变与日本进一步侵略华北、制造分离和自治压力相关，年份或事件名出现时应结合语境复核。",
+    "sources": [
+      "https://www.chinavictory.com/kzgdata/html/20190611/156605108021305489172.html",
+      "https://zh.wikipedia.org/wiki/%E5%8D%8E%E5%8C%97%E4%BA%8B%E5%8F%98"
+    ]
+  },
+  {
+    "id": "event-pingxingguan-victory",
+    "canonical": "平型关大捷 / Pingxingguan Victory",
+    "type": "event_date",
+    "date": "1937-09-25",
+    "aliases": [
+      "平型关大捷",
+      "平型关战役",
+      "平型关伏击战",
+      "925",
+      "0925",
+      "9.25",
+      "9月25日",
+      "1937-09-25",
+      "1937年9月25日",
+      "Pingxingguan Victory",
+      "Battle of Pingxingguan"
+    ],
+    "risk_categories": [
+      "war-of-resistance",
+      "historical-event-date"
+    ],
+    "review_note": "1937年9月25日通常与平型关大捷相关，是抗战早期重要战役日期；短数字形态需要结合上下文判断。",
+    "sources": [
+      "https://zh.wikipedia.org/wiki/%E5%B9%B3%E5%9E%8B%E5%85%B3%E6%88%98%E5%BD%B9"
+    ]
+  },
+  {
+    "id": "event-taierzhuang-battle",
+    "canonical": "台儿庄战役 / Battle of Taierzhuang",
+    "type": "event_date",
+    "date": "1938-03-16",
+    "aliases": [
+      "台儿庄战役",
+      "台儿庄大捷",
+      "台兒莊戰役",
+      "台兒莊大捷",
+      "316",
+      "0316",
+      "3.16",
+      "3月16日",
+      "1938-03-16",
+      "1938年3月16日",
+      "Battle of Taierzhuang"
+    ],
+    "risk_categories": [
+      "war-of-resistance",
+      "historical-event-date"
+    ],
+    "review_note": "1938年3月至4月的台儿庄战役是抗战正面战场重要战役；日期和战役名出现时建议结合历史语境复核。",
+    "sources": [
+      "https://zh.wikipedia.org/wiki/%E5%8F%B0%E5%85%92%E8%8E%8A%E6%88%B0%E5%BD%B9"
+    ]
+  },
+  {
+    "id": "event-hundred-regiments-offensive",
+    "canonical": "百团大战 / Hundred Regiments Offensive",
+    "type": "event_date",
+    "date": "1940-08-20",
+    "aliases": [
+      "百团大战",
+      "百團大戰",
+      "820",
+      "0820",
+      "8.20",
+      "8月20日",
+      "1940-08-20",
+      "1940年8月20日",
+      "Hundred Regiments Offensive"
+    ],
+    "risk_categories": [
+      "war-of-resistance",
+      "historical-event-date"
+    ],
+    "review_note": "1940年8月20日通常与百团大战开始相关，是抗日战争重要战役日期。",
+    "sources": [
+      "https://zh.wikipedia.org/wiki/%E7%99%BE%E5%9C%98%E5%A4%A7%E6%88%B0"
+    ]
+  },
+  {
+    "id": "event-tokyo-trial",
+    "canonical": "东京审判 / Tokyo Trial",
+    "type": "event_date",
+    "date": "1946-05-03",
+    "aliases": [
+      "东京审判",
+      "东京审判开庭",
+      "远东国际军事法庭",
+      "远东国际军事法庭审判",
+      "1946-05-03",
+      "1946年5月3日",
+      "Tokyo Trial",
+      "International Military Tribunal for the Far East"
+    ],
+    "risk_categories": [
+      "japanese-war-crimes",
+      "war-crimes-trial",
+      "historical-event-date"
+    ],
+    "review_note": "东京审判与日本甲级战犯审判相关，常与东条英机等战犯人物共同出现。",
+    "sources": [
+      "https://www.chinavictory.com/kzgdata/html/20190611/156605108019253386802.html",
+      "https://zh.wikipedia.org/wiki/%E8%BF%9C%E4%B8%9C%E5%9B%BD%E9%99%85%E5%86%9B%E4%BA%8B%E6%B3%95%E5%BA%AD"
+    ]
+  },
+  {
+    "id": "event-japan-surrender",
+    "canonical": "日本无条件投降 / Surrender of Japan",
+    "type": "event_date",
+    "date": "1945-08-15",
+    "aliases": [
+      "日本无条件投降",
+      "日本投降",
+      "终战诏书",
+      "815",
+      "0815",
+      "8.15",
+      "8月15日",
+      "1945-08-15",
+      "1945年8月15日",
+      "Surrender of Japan"
+    ],
+    "risk_categories": [
+      "japanese-aggression-in-china",
+      "memorial-date",
+      "historical-event-date"
+    ],
+    "review_note": "1945年8月15日与日本宣布无条件投降相关，在抗战胜利和战后审判语境中具有明确历史关联。",
+    "sources": [
+      "https://www.chinavictory.com/kzgdata/html/20190611/156605108008387275559.html",
+      "https://zh.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E6%8A%95%E9%99%8D"
+    ]
+  },
+  {
+    "id": "event-china-theater-surrender",
+    "canonical": "中国战区受降 / Japanese Surrender in China Theater",
+    "type": "event_date",
+    "date": "1945-09-09",
+    "aliases": [
+      "中国战区受降",
+      "中国战区受降典礼",
+      "南京受降",
+      "日本向中国投降",
+      "909",
+      "0909",
+      "9.9",
+      "9月9日",
+      "1945-09-09",
+      "1945年9月9日",
+      "Japanese Surrender in China Theater"
+    ],
+    "risk_categories": [
+      "japanese-aggression-in-china",
+      "memorial-date",
+      "historical-event-date"
+    ],
+    "review_note": "1945年9月9日与中国战区受降典礼相关，是抗战胜利后的重要历史日期。",
+    "sources": [
+      "https://www.chinavictory.com/kzgdata/html/20190611/156605108008387275559.html",
+      "https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9C%8B%E6%88%B0%E5%8D%80%E5%8F%97%E9%99%8D%E5%85%B8%E7%A6%AE"
+    ]
   }
 ]

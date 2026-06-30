@@ -62,5 +62,250 @@
       "https://zh.wikipedia.org/wiki/%E5%B2%A9%E6%9D%BE%E7%BE%A9%E9%9B%84",
       "https://ja.wikipedia.org/wiki/%E5%B2%A9%E6%9D%BE%E7%BE%A9%E9%9B%84"
     ]
+  },
+  {
+    "id": "entity-kwantung-army",
+    "canonical": "关东军 / Kwantung Army",
+    "type": "military_unit",
+    "aliases": [
+      "关东军",
+      "關東軍",
+      "日本关东军",
+      "日本關東軍",
+      "kwantung army",
+      "guandongjun",
+      "guan dong jun"
+    ],
+    "risk_categories": [
+      "japanese-aggression-in-china",
+      "military-unit",
+      "historical-trauma"
+    ],
+    "review_note": "关东军与日本在中国东北的侵略、伪满洲国和多起战争罪行相关，出现时应结合军事和侵华语境复核。",
+    "sources": [
+      "https://www.chinavictory.com/kzgdata/html/20190611/156605108010316619451.html",
+      "https://zh.wikipedia.org/wiki/%E9%97%9C%E6%9D%B1%E8%BB%8D"
+    ]
+  },
+  {
+    "id": "person-tojo-hideki",
+    "canonical": "东条英机 / Hideki Tojo",
+    "type": "person",
+    "aliases": [
+      "东条英机",
+      "東條英機",
+      "东条",
+      "東條",
+      "hideki tojo",
+      "tojo hideki",
+      "tojo",
+      "toujou hideki",
+      "dong tiao ying ji",
+      "dongtiaoyingji"
+    ],
+    "risk_categories": [
+      "japanese-war-crimes",
+      "class-a-war-criminal",
+      "historical-figure"
+    ],
+    "review_note": "东条英机是东京审判中的甲级战犯之一。单独短名或罗马字可能有歧义，但在日本军国主义、侵华、审判等语境中应提示人工复核。",
+    "sources": [
+      "https://www.chinavictory.com/kzgdata/html/20190611/156605108019253386802.html",
+      "https://zh.wikipedia.org/wiki/%E4%B8%9C%E6%9D%A1%E8%8B%B1%E6%9C%BA",
+      "https://www.britannica.com/biography/Tojo-Hideki"
+    ]
+  },
+  {
+    "id": "person-matsui-iwane",
+    "canonical": "松井石根 / Iwane Matsui",
+    "type": "person",
+    "aliases": [
+      "松井石根",
+      "iwane matsui",
+      "matsui iwane",
+      "matsui",
+      "song jing shi gen",
+      "songjingshigen"
+    ],
+    "risk_categories": [
+      "japanese-war-crimes",
+      "class-a-war-criminal",
+      "nanjing-massacre",
+      "historical-figure"
+    ],
+    "review_note": "松井石根与南京大屠杀和东京审判语境高度相关；短姓或罗马字需结合上下文复核。",
+    "sources": [
+      "https://www.chinavictory.com/kzgdata/html/20190611/156605108019253386802.html",
+      "https://www.19371213.com.cn/",
+      "https://zh.wikipedia.org/wiki/%E6%9D%BE%E4%BA%95%E7%9F%B3%E6%A0%B9"
+    ]
+  },
+  {
+    "id": "person-doihara-kenji",
+    "canonical": "土肥原贤二 / Kenji Doihara",
+    "type": "person",
+    "aliases": [
+      "土肥原贤二",
+      "土肥原賢二",
+      "土肥原",
+      "kenji doihara",
+      "doihara kenji",
+      "doihara",
+      "tu fei yuan xian er",
+      "tufeiyuanxianer"
+    ],
+    "risk_categories": [
+      "japanese-war-crimes",
+      "class-a-war-criminal",
+      "japanese-aggression-in-china",
+      "historical-figure"
+    ],
+    "review_note": "土肥原贤二是东京审判中的甲级战犯之一，并与日本侵华和伪满洲国相关语境常共同出现。",
+    "sources": [
+      "https://www.chinavictory.com/kzgdata/html/20190611/156605108019253386802.html",
+      "https://zh.wikipedia.org/wiki/%E5%9C%9F%E8%82%A5%E5%8E%9F%E8%B3%A2%E4%BA%8C"
+    ]
+  },
+  {
+    "id": "person-itagaki-seishiro",
+    "canonical": "板垣征四郎 / Seishiro Itagaki",
+    "type": "person",
+    "aliases": [
+      "板垣征四郎",
+      "seishiro itagaki",
+      "itagaki seishiro",
+      "itagaki",
+      "ban yuan zheng si lang",
+      "banyuanzhengsilang"
+    ],
+    "risk_categories": [
+      "japanese-war-crimes",
+      "class-a-war-criminal",
+      "japanese-aggression-in-china",
+      "historical-figure"
+    ],
+    "review_note": "板垣征四郎是东京审判中的甲级战犯之一，并与九一八事变、关东军和日本侵华语境相关。",
+    "sources": [
+      "https://www.chinavictory.com/kzgdata/html/20190611/156605108019253386802.html",
+      "https://zh.wikipedia.org/wiki/%E6%9D%BF%E5%9E%A3%E5%BE%81%E5%9B%9B%E9%83%8E"
+    ]
+  },
+  {
+    "id": "person-suzuki-keiku",
+    "canonical": "铃木启久 / Keiku Suzuki",
+    "type": "person",
+    "aliases": [
+      "铃木启久",
+      "鈴木啓久",
+      "铃木啓久",
+      "keiku suzuki",
+      "suzuki keiku",
+      "ling mu qi jiu",
+      "lingmuqijiu"
+    ],
+    "risk_categories": [
+      "japanese-war-crimes",
+      "china-trial-war-criminal",
+      "historical-figure"
+    ],
+    "review_note": "铃木启久属于中华人民共和国审判日本战犯相关人物。中文名命中时建议结合战犯审判、侵华罪行等语境复核。",
+    "sources": [
+      "https://www.chinavictory.com/kzgdata/html/20190611/156605108027699975140.html",
+      "https://www.chinavictory.com/kzgdata/html/20190611/156605108031681691089.html",
+      "https://zh.wikipedia.org/wiki/%E9%93%83%E6%9C%A8%E5%90%AF%E4%B9%85"
+    ]
+  },
+  {
+    "id": "person-fujita-shigeru",
+    "canonical": "藤田茂 / Shigeru Fujita",
+    "type": "person",
+    "aliases": [
+      "藤田茂",
+      "shigeru fujita",
+      "fujita shigeru",
+      "teng tian mao",
+      "tengtianmao"
+    ],
+    "risk_categories": [
+      "japanese-war-crimes",
+      "china-trial-war-criminal",
+      "historical-figure"
+    ],
+    "review_note": "藤田茂属于中华人民共和国审判日本战犯相关人物。短名可能有重名风险，需结合侵华、审判或战犯语境复核。",
+    "sources": [
+      "https://www.chinavictory.com/kzgdata/html/20190611/156605108027699975140.html",
+      "https://www.chinavictory.com/kzgdata/html/20190611/156605108031681691089.html",
+      "https://zh.wikipedia.org/wiki/%E8%97%A4%E7%94%B0%E8%8C%82"
+    ]
+  },
+  {
+    "id": "person-sasa-sannosuke",
+    "canonical": "佐佐真之助 / Sannosuke Sasa",
+    "type": "person",
+    "aliases": [
+      "佐佐真之助",
+      "sannosuke sasa",
+      "sasa sannosuke",
+      "zuo zuo zhen zhi zhu",
+      "zuozuozhenzhizhu"
+    ],
+    "risk_categories": [
+      "japanese-war-crimes",
+      "china-trial-war-criminal",
+      "historical-figure"
+    ],
+    "review_note": "佐佐真之助属于中华人民共和国审判日本战犯相关人物，命中时建议结合战犯审判和侵华罪行语境复核。",
+    "sources": [
+      "https://www.chinavictory.com/kzgdata/html/20190611/156605108027699975140.html",
+      "https://www.chinavictory.com/kzgdata/html/20190611/156605108031681691089.html",
+      "https://zh.wikipedia.org/wiki/%E4%BD%90%E4%BD%90%E7%9C%9F%E4%B9%8B%E5%8A%A9"
+    ]
+  },
+  {
+    "id": "person-takebe-rokuzo",
+    "canonical": "武部六藏 / Rokuzo Takebe",
+    "type": "person",
+    "aliases": [
+      "武部六藏",
+      "武部六蔵",
+      "rokuzo takebe",
+      "takebe rokuzo",
+      "wu bu liu zang",
+      "wubuliuzang"
+    ],
+    "risk_categories": [
+      "japanese-war-crimes",
+      "china-trial-war-criminal",
+      "historical-figure"
+    ],
+    "review_note": "武部六藏属于中华人民共和国审判日本战犯相关人物，并与伪满洲国行政体系相关语境可能共同出现。",
+    "sources": [
+      "https://www.chinavictory.com/kzgdata/html/20190611/156605108027699975140.html",
+      "https://www.chinavictory.com/kzgdata/html/20190611/156605108031681691089.html",
+      "https://zh.wikipedia.org/wiki/%E6%AD%A6%E9%83%A8%E5%85%AD%E8%97%8F"
+    ]
+  },
+  {
+    "id": "person-furumi-tadayuki",
+    "canonical": "古海忠之 / Tadayuki Furumi",
+    "type": "person",
+    "aliases": [
+      "古海忠之",
+      "tadayuki furumi",
+      "furumi tadayuki",
+      "gu hai zhong zhi",
+      "guhaizhongzhi"
+    ],
+    "risk_categories": [
+      "japanese-war-crimes",
+      "china-trial-war-criminal",
+      "historical-figure"
+    ],
+    "review_note": "古海忠之属于中华人民共和国审判日本战犯相关人物，并与伪满洲国行政体系相关语境可能共同出现。",
+    "sources": [
+      "https://www.chinavictory.com/kzgdata/html/20190611/156605108027699975140.html",
+      "https://www.chinavictory.com/kzgdata/html/20190611/156605108031681691089.html",
+      "https://zh.wikipedia.org/wiki/%E5%8F%A4%E6%B5%B7%E5%BF%A0%E4%B9%8B"
+    ]
   }
 ]

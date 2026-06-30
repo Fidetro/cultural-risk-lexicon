@@ -51,6 +51,42 @@ class QueryTests(unittest.TestCase):
         results = query.search("0707")
         self.assertEqual(results[0]["id"], "event-july-7-incident")
 
+    def test_jinan_massacre_numeric_alias(self):
+        results = query.search("0503")
+        self.assertEqual(results[0]["id"], "event-jinan-massacre")
+
+    def test_pingxingguan_victory_date_alias(self):
+        results = query.search("0925")
+        self.assertEqual(results[0]["id"], "event-pingxingguan-victory")
+
+    def test_hundred_regiments_date_alias(self):
+        results = query.search("1940-08-20")
+        self.assertEqual(results[0]["id"], "event-hundred-regiments-offensive")
+
+    def test_japan_surrender_date_alias(self):
+        results = query.search("1945-08-15")
+        self.assertEqual(results[0]["id"], "event-japan-surrender")
+
+    def test_china_theater_surrender_date_alias(self):
+        results = query.search("1945-09-09")
+        self.assertEqual(results[0]["id"], "event-china-theater-surrender")
+
+    def test_tojo_hideki_pinyin_alias(self):
+        results = query.search("dongtiaoyingji")
+        self.assertEqual(results[0]["id"], "person-tojo-hideki")
+
+    def test_matsui_iwane_chinese_alias(self):
+        results = query.search("松井石根")
+        self.assertEqual(results[0]["id"], "person-matsui-iwane")
+
+    def test_doihara_kenji_pinyin_alias(self):
+        results = query.search("tufeiyuanxianer")
+        self.assertEqual(results[0]["id"], "person-doihara-kenji")
+
+    def test_suzuki_keiku_chinese_alias(self):
+        results = query.search("铃木启久")
+        self.assertEqual(results[0]["id"], "person-suzuki-keiku")
+
 
 if __name__ == "__main__":
     unittest.main()
